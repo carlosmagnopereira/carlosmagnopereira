@@ -1,5 +1,7 @@
 ### Olá 👋
 
+- 🌱 I’m currently learning:  HtmL5 com Css3 e Js.
+
 <!--
 **carlosmagnopereira/carlosmagnopereira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
