@@ -1,5 +1,5 @@
 ### Olá 👋
-cript
+
 - 🌱 I’m currently learning:  __HTML5__ com __CSS3__ e __JavaScript__.
 
 <!--
